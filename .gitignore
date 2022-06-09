@@ -87,3 +87,5 @@ data
 
 # vim
 *.swp
+/tb/
+/video_dir*
